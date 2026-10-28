@@ -1,0 +1,2 @@
+# mcp-security-permission-auditor
+
